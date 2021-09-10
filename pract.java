@@ -9,7 +9,7 @@ class firstNameUpperCase{
 			sb.append(Character.toUpperCase(a[i].charAt(0))).append(a[i].substring(1)).append(" ");
 			
 		}
-		System.out.print(sb);
+		System.out.print("string first word uppercase"+sb);
 
         
     }
